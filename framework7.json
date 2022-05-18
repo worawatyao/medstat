@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/worawatyao/Projects/byop",
+  "type": [
+    "web"
+  ],
+  "name": "line-med",
+  "framework": "react",
+  "template": "tabs",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
